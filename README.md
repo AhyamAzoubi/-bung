@@ -8,3 +8,5 @@
 - Schwimen
 - Fußball
 
+### Zertifikate
+- Deutschsprache B2
